@@ -1,21 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:51:36.680122
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:51
 #+TITLE: 禮法華經儀式
 #+PROPERTY: CBETA_ID T46n1944
 #+PROPERTY: ID KR6d0194
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 46, No. 1944
 #+PROPERTY: VOL 46
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6d0194_T_000-0956c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6d0194_T_001-0956c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
 ¶
-No.1944[cf.Nos.1941-1943]¶
-
- 禮法華經儀式¶
+No. 1944 [cf. Nos. 1941-1943]¶
+禮法華經儀式¶
 ¶
 
 一心頂禮十方法界常住三寶(拜起胡跪燒香運想已合掌唱云)¶
@@ -31,9 +30,9 @@ No.1944[cf.Nos.1941-1943]¶
 　悉證佛菩提
 <pb:KR6d0194_T_001-0957a>¶
 　我今誓歸依
-　願超生死海
+　願超生死海」
 #+END_VERSE
-」¶
+¶
 
 (讚歎已。隨意述誠。雖曰禮經。應須禮佛菩薩。使三寶義足)。¶
 
